@@ -1,0 +1,5 @@
+{
+    "name": ".NET",
+    "image": "mcr.microsoft.com/vscode/devcontainers/dotnet:6",
+    "postCreateCommand": "dotnet new webapp -o MyWebApp"
+}
